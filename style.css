@@ -466,6 +466,9 @@ h2 {
         display: flex;
         align-items: center;
         text-align: center;
+        width: var(---container-width-sm);
+         margin: 0 auto;
+         margin-bottom: 20px;
     }
     .logo__section img {
         width: 100px;
@@ -493,6 +496,7 @@ h2 {
         border: none;
         display: flex;
         align-items: center;
+        justify-content: center;
     }
 
 }
